@@ -1,0 +1,12 @@
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\bin\Debug\net8.0\HelpDesk.Client.Dto.deps.json
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\bin\Debug\net8.0\HelpDesk.Client.Dto.dll
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\bin\Debug\net8.0\HelpDesk.Client.Dto.pdb
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\obj\Debug\net8.0\HelpDesk.Client.Dto.csproj.AssemblyReference.cache
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\obj\Debug\net8.0\HelpDesk.Client.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\obj\Debug\net8.0\HelpDesk.Client.Dto.AssemblyInfoInputs.cache
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\obj\Debug\net8.0\HelpDesk.Client.Dto.AssemblyInfo.cs
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\obj\Debug\net8.0\HelpDesk.Client.Dto.csproj.CoreCompileInputs.cache
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\obj\Debug\net8.0\HelpDesk.Client.Dto.dll
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\obj\Debug\net8.0\refint\HelpDesk.Client.Dto.dll
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\obj\Debug\net8.0\HelpDesk.Client.Dto.pdb
+C:\RepoApp\HelpDesk.Client\dev-source\HelpDesk.Client.Dto\obj\Debug\net8.0\ref\HelpDesk.Client.Dto.dll
