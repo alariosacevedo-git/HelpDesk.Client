@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Email Confirmation</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <br />
+    <table width="50%">
+        <tr>
+            <td align="center" style="background-color:deepskyblue">
+                <span style="font-size:25px;">Welcome To El Debugger</span>
+                <br />
+                <br />
+            </td>
+        </tr>
+
+        <tr align="center">
+            <td>
+                <br />
+                Dear <%Email%>
+                <br />
+                Thank you for registering with us!
+                <br />
+                <a href="<%confirmationLink%>">Click here to Confirm your email</a>
+                Regards,
+                <br />
+                <br />
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
